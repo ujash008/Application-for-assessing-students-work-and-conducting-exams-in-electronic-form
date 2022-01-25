@@ -1,0 +1,51 @@
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\StudendGradeWFA.exe.config
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\StudendGradeWFA.exe
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\StudendGradeWFA.pdb
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.csprojAssemblyReference.cache
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.Properties.Resources.resources
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.GenerateResource.cache
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.CoreCompileInputs.cache
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.exe
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.pdb
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.AddForm.resources
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.MainForm.resources
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\MySqlConnector.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Buffers.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Memory.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\MySqlConnector.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Buffers.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Memory.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.CopyComplete
+C:\Users\radum\source\repos\StudendGradeWFA\StudendGradeWFA\obj\Debug\StudendGradeWFA.DeleteForm.resources
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\StudendGradeWFA.exe.config
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\StudendGradeWFA.exe
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\StudendGradeWFA.pdb
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\MySqlConnector.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Buffers.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Memory.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Numerics.Vectors.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\MySqlConnector.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Buffers.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Memory.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Numerics.Vectors.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.AssemblyReference.cache
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.SuggestedBindingRedirects.cache
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.AddForm.resources
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.DeleteForm.resources
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.MainForm.resources
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.Properties.Resources.resources
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.GenerateResource.cache
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.CoreCompileInputs.cache
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.csproj.CopyComplete
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.exe
+D:\Application for assessing students' work and conducting exams in electronic form\StudendGradeWFA\obj\Debug\StudendGradeWFA.pdb
